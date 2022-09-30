@@ -24,3 +24,4 @@ public class ExampleInstrumentedTest {
         assertEquals("com.vc.st10120984.vakashamaps_main", appContext.getPackageName());
     }
 }
+//testing
